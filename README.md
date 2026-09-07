@@ -1,1 +1,1 @@
-Stock Price Prediction and Market Analysis System
+Bank Account Management System – Python OOP
